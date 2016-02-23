@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesad00schogoog_0060.png"; bbox 0 0 4575 5567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 4381 684 4575 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 4381 684 4575 3156">
+     <span class='ocr_line' id='line_1_1' title="bbox 4381 684 4575 3156; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 4381 684 4575 3156; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3245 5124 4161 5251">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3245 5124 4161 5264">
+     <span class='ocr_line' id='line_1_2' title="bbox 3245 5124 4161 5251; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 3245 5216 3506 5251; x_wconf 32' lang='grc' dir='ltr'><em>ᾈψζέζ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3533 5215 3602 5251; x_wconf 61' lang='grc' dir='ltr'><em>Ξ.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3629 5203 3753 5249; x_wconf 18' lang='grc' dir='ltr'><em>ΧΨ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 3778 5171 3851 5249; x_wconf 51' lang='lat' dir='ltr'><em>(J</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 3878 5171 3951 5249; x_wconf 42' lang='lat' dir='ltr'><em>(J</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 3972 5124 4086 5249; x_wconf 31' lang='lat' dir='ltr'><em>3&gt;AE</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 4105 5175 4161 5249; x_wconf 25' lang='lat' dir='ltr'><em>(va</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
